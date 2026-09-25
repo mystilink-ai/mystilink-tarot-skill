@@ -68,6 +68,10 @@ Details: `SKILL.md`. Draw method notes: `references/method-draw.md`.
 - Prefer one clear question per draw
 - Wiki locale omit → `en`
 
+## Version
+
+Skill version `0.1.0`, recorded in `SKILL.md` under `metadata.mystilink.version` and in [CHANGELOG.md](CHANGELOG.md).
+
 ## License
 
 MIT. See [LICENSE](LICENSE).

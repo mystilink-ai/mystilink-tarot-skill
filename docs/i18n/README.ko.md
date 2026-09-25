@@ -68,6 +68,10 @@ GET https://wiki.mystilink.com/api/v1/pages/<card.id>?locale=en
 - 뽑기당 명확한 질문 하나 우선
 - Wiki locale 생략 → `en`
 
+## 버전
+
+스킬 버전은 `0.1.0`이며, `SKILL.md`의 `metadata.mystilink.version`에 기록되고 [CHANGELOG.md](../../CHANGELOG.md)에도 정리되어 있습니다.
+
 ## 라이선스
 
 MIT. [LICENSE](../../LICENSE) 참고.

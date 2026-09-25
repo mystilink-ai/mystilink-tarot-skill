@@ -68,6 +68,10 @@ Detalles: `SKILL.md`. Notas de método: `references/method-draw.md`.
 - Preferir una pregunta clara por extracción
 - Locale Wiki omitida → `en`
 
+## Versión
+
+Versión de la skill: `0.1.0`, registrada en `SKILL.md` bajo `metadata.mystilink.version` y en [CHANGELOG.md](../../CHANGELOG.md).
+
 ## Licencia
 
 MIT. Véase [LICENSE](../../LICENSE).

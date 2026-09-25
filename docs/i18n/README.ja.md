@@ -68,6 +68,10 @@ GET https://wiki.mystilink.com/api/v1/pages/<card.id>?locale=en
 - 1 抽選につき明確な質問を 1 つ優先
 - Wiki locale 省略 → `en`
 
+## バージョン
+
+スキルのバージョンは `0.1.0`。`SKILL.md` の `metadata.mystilink.version` に記録し、[CHANGELOG.md](../../CHANGELOG.md) にも記載しています。
+
 ## ライセンス
 
 MIT。[LICENSE](../../LICENSE) を参照。

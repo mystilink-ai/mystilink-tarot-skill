@@ -68,6 +68,10 @@ GET https://wiki.mystilink.com/api/v1/pages/<card.id>?locale=en
 - 尽量一事一抽
 - Wiki 省略 locale → `en`
 
+## 版本
+
+技能版本 `0.1.0`，记录于 `SKILL.md` 的 `metadata.mystilink.version`，并见 [CHANGELOG.md](../../CHANGELOG.md)。
+
 ## 许可
 
 MIT。见 [LICENSE](../../LICENSE)。
