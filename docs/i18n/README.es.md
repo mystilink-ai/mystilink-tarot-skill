@@ -6,6 +6,11 @@
 
 Agent Skill para tarot: extrae cartas upright/reversed para un spread con un script Node embebido, luego interpreta con páginas teóricas de cartas. Prefiera una extracción real (script o cartas del usuario); no invente extracciones en silencio.
 
+## Puntos de acceso
+
+- Agent: https://www.mystilink.com
+- Wiki teórica: https://wiki.mystilink.com (API `/api/v1`)
+
 ## Tipo de entrega
 
 Paquete **Agent Skill**. **No** implementa la matriz de lenguajes de calculadoras. La lógica de extracción/validación está embebida solo en `scripts/` (sin repositorio calculador de tarot separado).

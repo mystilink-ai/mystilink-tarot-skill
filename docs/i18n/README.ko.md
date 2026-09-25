@@ -6,6 +6,11 @@
 
 타로 Agent Skill: 내장 Node 스크립트로 스프레드에 정위치/역위치 카드를 뽑고, 카드 이론 페이지로 해석합니다. 실제 뽑기(스크립트 또는 사용자 제공)를 우선하며, 뽑기 결과를 조용히 날조하지 마세요.
 
+## 엔드포인트
+
+- Agent: https://www.mystilink.com
+- 이론 Wiki: https://wiki.mystilink.com (API `/api/v1`)
+
 ## 배포 유형
 
 **Agent Skill** 패키지. 계산기 언어 매트릭스는 **적용되지 않습니다**. 뽑기/검증 로직은 `scripts/`에만 내장(별도 타로 계산기 저장소 없음).

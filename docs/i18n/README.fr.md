@@ -6,6 +6,11 @@
 
 Agent Skill pour le tarot : tire des cartes droites/renversées pour un tirage avec un script Node intégré, puis interprète via des pages de théorie des cartes. Préférez un tirage réel (script ou cartes fournies par l’utilisateur) ; n’inventez pas de tirages en silence.
 
+## Points d’accès
+
+- Agent : https://www.mystilink.com
+- Wiki théorique : https://wiki.mystilink.com (API `/api/v1`)
+
 ## Type de livraison
 
 Paquet **Agent Skill**. N’implémente **pas** la matrice de langages des calculatrices. La logique de tirage/validation est intégrée uniquement dans `scripts/` (pas de dépôt calculateur tarot séparé).

@@ -6,6 +6,11 @@
 
 Agent Skill for tarot: draw upright/reversed cards for a spread with an embedded Node script, then interpret using card theory pages. Prefer a real draw (script or user-provided cards); do not invent draws silently.
 
+## Endpoints
+
+- Agent: https://www.mystilink.com
+- Theory Wiki: https://wiki.mystilink.com (API `/api/v1`)
+
 ## Delivery type
 
 **Agent Skill** package. Does **not** implement the calculator language matrix. Draw/validate logic is embedded in `scripts/` only (no separate tarot calculator repository).

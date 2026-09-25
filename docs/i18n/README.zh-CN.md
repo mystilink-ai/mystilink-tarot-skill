@@ -6,6 +6,11 @@
 
 塔罗 Agent Skill：用内嵌 Node 脚本按牌阵抽取正/逆位牌，再结合牌意词条解读。优先真实抽牌（脚本或用户已抽结果），禁止静默编造抽牌结果。
 
+## 相关地址
+
+- Agent：https://www.mystilink.com
+- 理论 Wiki：https://wiki.mystilink.com（API `/api/v1`）
+
 ## 交付类型
 
 **Agent Skill** 包。**不适用**计算器语言矩阵。抽牌逻辑仅内嵌于 `scripts/`（无独立塔罗计算器仓库）。
