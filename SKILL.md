@@ -9,6 +9,7 @@ compatibility: "node >= 18; network optional for wiki API"
 metadata:
   mystilink:
     system: tarot
+    version: 0.1.0
     about: "Local tarot draw script (spreads, upright/reversed) plus optional Mystilink Wiki card pages."
     wiki_base: https://wiki.mystilink.com
     wiki_api: /api/v1
